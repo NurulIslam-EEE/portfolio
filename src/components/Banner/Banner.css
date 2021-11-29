@@ -1,0 +1,43 @@
+.banner {
+  background: linear-gradient(to right, black, rgba(0, 0, 0, 0.822)),
+    url("../../images/IMG_20210218_172331.jpg");
+  background-color: rgba(0, 0, 0, 0.014);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.banner a {
+  text-decoration: none;
+  background-color: #eec957;
+  color: black;
+  padding: 5px 20px;
+  border-radius: 30px;
+}
+.header {
+  background-color: black;
+  color: #eec957;
+}
+.contract-form input,
+.contract-form textarea {
+  width: 90%;
+  margin-top: 20px;
+}
+.nav-menu {
+  background-color: black;
+}
+.nav-menu button {
+  background-color: white !important;
+}
+.nav-menu a {
+  text-decoration: none;
+  display: block;
+  color: #eec957;
+  font-weight: 800;
+  font-size: 22px;
+}
+.profile {
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+}
